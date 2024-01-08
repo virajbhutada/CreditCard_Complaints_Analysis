@@ -14,9 +14,7 @@ Explore insightful visualizations, trends, and analytics related to credit card 
 
 This powerful analysis tool allows you to stay informed and make data-driven decisions based on the visualizations, trends, and analytics related to credit card complaints using Tableau.
 
-## Description
-
-Explore insightful visualizations, trends, and analytics related to credit card complaints using Tableau. This powerful analysis tool allows you to stay informed and make data-driven decisions.
+---
 
 ## Tableau Dashboard Preview
 
@@ -29,9 +27,9 @@ Explore insightful visualizations, trends, and analytics related to credit card 
    git clone https://github.com/virajbhutada/CreditCard_Complaints_Analysis_Repo.git
    ```
 
-2. Open the Tableau workbook (`CreditCard_Complaints_Analysis.twb`) to explore the dashboard.
+2. Open the Tableau workbook `CreditCard_Complaints_Analysis.twb` to explore the dashboard.
 
-
+---
 
 ## Author
 
